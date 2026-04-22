@@ -1,0 +1,44 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Complete assignment",
+      "description": "Finish math homework",
+      "status": "pending",
+      "priority": "high",
+      "due_date": "2026-04-23"
+    },
+    {
+      "id": 2,
+      "title": "Grocery shopping",
+      "description": "Buy vegetables and fruits",
+      "status": "completed",
+      "priority": "medium",
+      "due_date": "2026-04-21"
+    },
+    {
+      "id": 3,
+      "title": "Workout",
+      "description": "30 minutes of exercise",
+      "status": "in_progress",
+      "priority": "low",
+      "due_date": "2026-04-22"
+    },
+    {
+      "id": 4,
+      "title": "Read book",
+      "description": "Read 20 pages of a novel",
+      "status": "pending",
+      "priority": "low",
+      "due_date": "2026-04-25"
+    },
+    {
+      "id": 5,
+      "title": "Call friend",
+      "description": "Catch up with an old friend",
+      "status": "pending",
+      "priority": "medium",
+      "due_date": "2026-04-24"
+    }
+  ]
+}
