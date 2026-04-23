@@ -1,6 +1,7 @@
 "use client";
 import { Sun, Moon } from "@gravity-ui/icons";
-import { Switch, useTheme } from "@heroui/react";
+import { Switch } from "@heroui/react";
+import { useTheme } from "next-themes";
 
 function ThemeToggle() {
   const { theme, setTheme } = useTheme();
